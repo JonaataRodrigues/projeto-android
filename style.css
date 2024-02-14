@@ -207,10 +207,11 @@ aside > ul {
 
 footer {
     background-color: var(--cor5);
+    font-size: 1.8em;
     color: white;
-    padding: 5px;
+    padding: 25px;
     text-align: center;
-    font-size: 0.8em;
+    font-size: 1.8em;
 }
 
 
